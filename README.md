@@ -57,10 +57,10 @@ The research conducted as part of an **in-house summer internship** examines the
 ```
 Comparing-Python-and-Mojo/
 │
-├── Python-Examples/      # Implementations of ML algorithms in Python
-├── Mojo-Examples/        # Equivalent implementations in Mojo
+├── Models/               # Implementations of ML algorithms in Python
+├── Mojo Models/          # Python models ran in Mojo Environment
 ├── Benchmarks/           # Performance results and analysis
-├── Docs/                 # Detailed documentation and findings
+├── Report                 # Detailed documentation and findings
 └── README.md             # Project overview (this file)
 ```
 
